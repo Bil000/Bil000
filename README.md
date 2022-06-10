@@ -14,7 +14,7 @@ Take a look in my site where i demonstrate my soft skills and give updates about
 
 "www.Bilswork.com" //Website is currently under maintenance
 
-Also take a look in my channel where i post projects and other stuffs, i'm sure you
+Also take a look in my channel where i post projects and other stuffs i enjoy doing, i'm sure you
 will like it
 "https://www.youtube.com/channel/UCwdSvcRgIAEkS0YjqdUxAOg";
 
