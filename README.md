@@ -8,13 +8,11 @@ I'm also interested in
 Cyber security Development, Robotics, Al, Database, game development, Back End languages,
 Web Development etc;
 
-Take a look in my site where i post stuffs about projects i'm doing and my career 
-journey
-
-
-"Website is currently under maintenance";
-
 I'm working in my current goal that is to become a Full Stack Python developer;
+
+Take a look in my site where i post stuffs about projects i'm doing and my career journey 
+
+"www.Bilswork.com"; //Website is currently under maintenance
 
 Also take a look in my channel where i post projects and other stuffs, i'm sure you
 will like it
