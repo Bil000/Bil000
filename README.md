@@ -11,7 +11,8 @@ etc;
 I'm working in my current goal that is to become a Full Stack Python developer;
 
 Did you like my profile?
-Here's a link to my resume if you're interested in hiring me!
+Here's a link to my resume and contact information if you're interested in hiring me!
+"https://drive.google.com/file/d/1cmmeySaPEqvRWG7YEylJHwA6hxaepXa2/view?usp=sharing"
 
 
 
