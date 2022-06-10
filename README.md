@@ -1,12 +1,18 @@
-Hi, My name is Bil,
+Hi my name is Bil,
 
 I'm a Python developer, currently attending college, 
 but looking for my first job, however I work as a freelancer in personal
 projects for friends or for myself either;
 
 I'm also interested in 
-Python Development, Robotics, Al, Database, game development, Back End languages
-etc;
+Cyber security Development, Robotics, Al, Database, game development, Back End languages,
+Web Development etc;
+
+Take a look in my site where i post stuffs about projects i'm doing and my career 
+journey
+
+
+"Website is currently under maintenance";
 
 I'm working in my current goal that is to become a Full Stack Python developer;
 
