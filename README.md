@@ -10,7 +10,7 @@ Web Development etc;
 
 I'm working in my current goal that is to become a Full Stack Python developer;
 
-Take a look in my site where i post stuffs about projects i'm doing and my career journey 
+Take a look in my site where i demonstrate my soft skills and give updates about my career journey 
 
 "www.Bilswork.com" //Website is currently under maintenance
 
