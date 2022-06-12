@@ -1,14 +1,17 @@
-Hi my name is Bil,
+Hi! 
+
+Welcome to my GitHub,
+my name is Bil;
 
 I'm a Python developer, currently attending college, 
 but looking for my first job, however I work as a freelancer in personal
 projects for friends or for myself either;
 
 I'm also interested in 
-Cyber security Development, Robotics, Al, Database, game development, Back End languages,
+Cyber security Development, Robotics, Al, Database, game development, Back End Development,
 Web Development etc;
 
-I'm working in my current goal that is to become a Full Stack Python developer;
+I'm working in my current goal that is to become a Full Stack Dev in Python;
 
 Take a look in my site where i demonstrate my soft skills and give updates about my career journey 
 
