@@ -13,11 +13,9 @@ Web Development etc;
 
 I'm working in my current goal that is to become a Full Stack Dev in Python;
 
-Take a look in my site where i demonstrate my soft skills and give updates about my career journey 
+Take a look in my site where I demonstrate my soft skills and give updates about my career journey 
 
-"www.Bilswork.com" //Website is currently under maintenance
-
-Also take a look in my channel where i post projects and other stuffs i enjoy doing, i'm sure you
+Also take a look in my channel where I post projects and other stuffs i enjoy doing, i'm sure you
 will like it
 "https://www.youtube.com/channel/UCwdSvcRgIAEkS0YjqdUxAOg";
 
