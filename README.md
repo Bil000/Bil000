@@ -20,12 +20,11 @@ Take a look in my site where I demonstrate my soft skills and give updates about
 Also take a look in my channel where I post projects and other stuffs i enjoy doing, i'm sure you
 will like it
 
-"shorturl.at/orsu9";
+"https://www.youtube.com/channel/UCwdSvcRgIAEkS0YjqdUxAOg";
 
 Did you like my profile?
 Here's a link to my resume and contact information if you're interested in hiring me!
-
-"shorturl.at/agIN5"
+"https://drive.google.com/file/d/1cmmeySaPEqvRWG7YEylJHwA6hxaepXa2/view?usp=sharing"
 
 
 <!---
