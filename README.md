@@ -15,7 +15,7 @@ I'm working in my current goal that is to become a Full Stack Dev in Python;
 
 Take a look in my site where I demonstrate my soft skills and give updates about my career journey 
 
-"http://127.0.0.1:5500/BilsWork.html"
+"hhttps://bilswork.000webhostapp.com/"
 
 Also take a look in my channel where I post projects and other stuffs i enjoy doing, i'm sure you
 will like it
