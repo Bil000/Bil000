@@ -14,17 +14,15 @@ Web Development etc;
 I'm working in my current goal that is to become a Full Stack Dev in Python;
 
 Take a look in my site where I demonstrate my soft skills and give updates about my career journey 
-
 "https://bilswork.000webhostapp.com/"
 
 Also take a look in my channel where I post projects and other stuffs i enjoy doing, i'm sure you
 will like it
-
 "https://www.youtube.com/channel/UCwdSvcRgIAEkS0YjqdUxAOg";
 
 Did you like my profile?
 Here's a link to my resume and contact information if you're interested in hiring me!
-"https://drive.google.com/file/d/11lOXkL_tmfc3LIYsqGAa4j3hZlNotjTa/view?usp=sharing"
+"https://drive.google.com/file/d/1BN1BvlrLKRuzvtQhykYY36a19qe0gjKo/view?usp=sharing"
 
 
 <!---
