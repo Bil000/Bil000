@@ -1,32 +1,18 @@
-Hi! 
-
+Hello,
 Welcome to my GitHub,
-my name is Bil;
+My name is Clebio de Souza but my friends knows me as Bil;
 
-I'm a Python developer, currently attending college, 
-but looking for my first job, however I work as a freelancer in personal
-projects for friends or for myself either;
+I'm a fresh new developer, currently serving in army, but looking for an opportunity to get a college once my contract finished;
 
-I'm also interested in 
-Cyber security Development, Robotics, Al, Database, game development, Back End Development,
-Web Development etc;
+I've been interested in Al, Game Development and Back End Development and 'cause of that i've been aiming to become a Full Stack;
 
-I'm working in my current goal that is to become a Full Stack Dev in Python;
+Take a look in my site where i have work going on
 
-Take a look in my site where I demonstrate my soft skills and give updates about my career journey 
+"https://bilswork.000webhostapp.com/";
 
-"https://bilswork.000webhostapp.com/"
+Also take a look in my channel where I post projects and other stuffs i enjoy doing
 
-Also take a look in my channel where I post projects and other stuffs i enjoy doing, i'm sure you
-will like it
-
-"https://www.youtube.com/channel/UCwdSvcRgIAEkS0YjqdUxAOg";
-
-Did you like my profile?
-Here's a link to my resume and contact information if you're interested in hiring me!
-
-"https://drive.google.com/file/d/1BN1BvlrLKRuzvtQhykYY36a19qe0gjKo/view?usp=sharing"
-
+"https://youtube.com/@whatever.7322?si=fTJAfSHqDg1IULf9";
 
 <!---
 Bil000/Bil000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
