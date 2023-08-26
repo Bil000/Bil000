@@ -2,7 +2,7 @@ Hello,
 Welcome to my GitHub,
 My name is Clebio de Souza but my friends knows me as Bil;
 
-I'm a fresh new developer, currently serving in army, but looking for an opportunity to get a college once my contract finished;
+I'm a fresh new developer, currently serving in army, but looking for an opportunity to get a college once my contract is finished;
 
 I've been interested in Al, Game Development and Back End Development and 'cause of that i've been aiming to become a Full Stack;
 
