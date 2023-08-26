@@ -12,7 +12,7 @@ Take a look in my site where i have work going on
 
 Also take a look in my channel where I post projects and other stuffs i enjoy doing
 
-"https://youtube.com/@whatever.7322?si=fTJAfSHqDg1IULf9";
+"https://www.youtube.com/@penscom";
 
 <!---
 Bil000/Bil000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
