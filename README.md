@@ -2,9 +2,9 @@ Hello,
 Welcome to my GitHub,
 My name is Clebio de Souza but my friends knows me as Bil;
 
-I'm a fresh new developer, currently serving in army, but looking for an opportunity to get a college once my contract is finished;
+I'm a fresh new developer with a year of learning and experiences on the field;
 
-I've been interested in programming since a year ago, now Im aiming to become a Back End developer, I also want to learn Al, and Game development;
+I've been interested in programming since a year ago, now Im aiming to become a Back End developer with ties to machine learning and Game development;
 
 I know - Javascript, Css, HTML, Node.Js, J.Query;
 
