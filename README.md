@@ -7,13 +7,11 @@ I'm a fresh new developer with a year of learning and experiences on the field;
 I've been interested in programming since a year ago, now Im aiming to become a Web developer with more affinity to Back End developer with ties to machine learning and Game development;
 
 I know - Javascript, Css, HTML, Node.Js, J.Query;
+I still intend to learn Python, PHP and cloud and database 
 
-Take a look in my site where i have work going on
+Another socials where my work is displayed
 
 "https://bilswork.000webhostapp.com/";
-
-Also take a look in my LinkedIn where I post projects and other stuffs.
-
 "https://www.linkedin.com/in/clebio-de-souza-santos-junior-a70982232"
 
 <!---
